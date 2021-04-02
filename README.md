@@ -5,9 +5,9 @@ Add markers and change camera position in Google Maps.
 
 ## Screenshots
 
- <img src="screenshots/image1.jpeg"  height="500" width="260"/>
->![image](screenshots/image1.jpeg)
->![image](screenshots/image2.jpeg){:height="50%" width="50%"}
+> <img src="screenshots/image1.jpeg"  height="640" width="360"/>
+> <img src="screenshots/image2.jpeg"  height="640" width="360"/>
+
 ## Implementation  
   
 > Add dependencies to pubspec.yaml file.  
