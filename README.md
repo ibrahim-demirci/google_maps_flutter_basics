@@ -5,8 +5,8 @@ Add markers and change camera position in Google Maps.
 
 ## Screenshots
 
-![image](screenshots/image1.jpeg)
-![image](screenshots/image2.jpeg)
+>![image](screenshots/image1.jpeg)
+>![image](screenshots/image2.jpeg)
 
   
 ## Implementation  
