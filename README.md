@@ -8,6 +8,9 @@ Add markers and change camera position in Google Maps.
 >![image](screenshots/image1.jpeg){ width: 90px; }
 >![image](screenshots/image2.jpeg)
 
+<img src="screenhots/image1.jpeg" 
+     width="400" 
+     height="500" />
   
 ## Implementation  
   
